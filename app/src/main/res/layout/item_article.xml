@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:layout_marginBottom="20dp"
+    app:cardCornerRadius="20dp"
+    app:cardElevation="10dp">
+
+
+    <TextView
+        android:id="@+id/article_item"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:paddingTop="10dp"
+        android:paddingRight="20dp"
+        android:paddingLeft="20dp"
+        android:text="@string/article_title1"
+        android:background="@color/tertiare"
+        style="@style/ArticleTextTitle" />
+
+    <TextView
+        android:id="@+id/text_article"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="50dp"
+        android:paddingTop="5dp"
+        android:paddingRight="20dp"
+        android:paddingLeft="20dp"
+        android:paddingBottom="10dp"
+        android:text="@string/lorem_ipsum"
+        android:background="@color/tertiare"
+        android:layout_marginBottom="10dp"
+        style="@style/DefaultTextStyle" />
+
+
+
+
+</androidx.cardview.widget.CardView>

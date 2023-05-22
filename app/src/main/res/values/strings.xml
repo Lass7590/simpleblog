@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SimpleBlog</string>
+
+    <!--    Titre de page   -->
+    <string name="article_title1">Article 1</string>
+    <string name="article_title2">Article 2</string>
+    
+    <!--  Auteur et date de pub de l'article  -->
+    <string name="auteur_article">Ecrit par John Doe</string>
+    <string name="date_article">21/05/2023</string>
+
+    <!--  Text de l'article  -->
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Et tortor consequat id porta nibh venenatis. Vitae auctor eu augue ut lectus arcu. Scelerisque fermentum dui faucibus in ornare. Porttitor lacus luctus accumsan tortor posuere. Sollicitudin aliquam ultrices sagittis orci a. Id cursus metus aliquam eleifend mi in nulla. Iaculis eu non diam phasellus vestibulum. Gravida cum sociis natoque penatibus et. In vitae turpis massa sed elementum tempus egestas sed sed. Ut ornare lectus sit amet est placerat in.
+
+Non nisi est sit amet facilisis. Pulvinar mattis nunc sed blandit libero volutpat. Suspendisse interdum consectetur libero id faucibus nisl tincidunt eget nullam. Quis hendrerit dolor magna eget est lorem. Facilisi morbi tempus iaculis urna id volutpat lacus laoreet. A arcu cursus vitae congue mauris rhoncus aenean. Vivamus at augue eget arcu. Nibh ipsum consequat nisl vel pretium lectus quam id leo. Luctus accumsan tortor posuere ac. Sed enim ut sem viverra aliquet eget sit amet tellus. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin. Non quam lacus suspendisse faucibus interdum. Nibh sit amet commodo nulla. Pellentesque massa placerat duis ultricies lacus.</string>
+
+
+    <!--  Text article page  -->
+    <string name="lorem_ipsum_page">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut molestie enim. Aliquam vitae venenatis nulla. Sed lacinia dictum metus, commodo venenatis nunc placerat id. Nunc suscipit purus pellentesque tempor ultricies. Donec vitae sodales nulla. Sed varius pulvinar lacus, vel euismod risus vehicula quis. Donec pharetra nisi sed diam auctor molestie. Maecenas et ex sem. Suspendisse metus dolor, elementum sed maximus non, fermentum id urna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu sollicitudin felis, vel accumsan metus. Nam faucibus elit et pretium semper.
+
+Pellentesque quis lectus pulvinar, sagittis nunc eget, blandit odio. Ut semper interdum pretium. Fusce id justo laoreet, accumsan nisi vitae, convallis nisi. Nunc ullamcorper varius facilisis. Proin rutrum auctor dolor, at auctor ligula. In hendrerit leo nec est semper sodales. Suspendisse laoreet nisi vitae pellentesque dictum. Nullam et velit enim. Vestibulum porttitor lacus ut dictum tempor. Suspendisse potenti. Etiam varius auctor magna vitae elementum. Suspendisse feugiat erat a nisl sagittis aliquam. Donec suscipit ante nisi, mollis ornare nisi molestie et. Quisque ac sem ipsum.
+
+Mauris eu mauris id libero tempor bibendum. Nam non tempus nunc. Curabitur sagittis mauris ut tempor eleifend. Fusce cursus nibh turpis, vel fringilla libero porta eu. Fusce sollicitudin, ligula eu elementum facilisis, ipsum tellus ullamcorper ligula, in vulputate lectus dolor sit amet enim. Sed tincidunt, nisl vitae feugiat dictum, justo lectus efficitur tellus, eget malesuada quam orci id leo. Vestibulum eu dignissim magna, nec cursus dui. Suspendisse dictum diam iaculis, vestibulum eros quis, semper turpis. Sed accumsan commodo magna. Cras quam elit, ullamcorper vitae lectus tristique, posuere faucibus diam. Nullam a vehicula arcu. Nulla eros est, dapibus id luctus lacinia, dapibus at magna.
+
+Fusce elementum maximus velit a gravida. In interdum sem vel metus pretium gravida. Donec et consequat eros, vel luctus ipsum. Fusce vel nisl non massa accumsan suscipit. Fusce nec venenatis risus. Aliquam at enim nec mauris consectetur ullamcorper eu sagittis sem. Cras at convallis velit. Sed purus sem, semper id tincidunt eu, hendrerit non nulla. Vestibulum eleifend, libero ut volutpat iaculis, urna nisl venenatis massa, id maximus sem nibh ac lorem. Nunc pellentesque at urna sit amet imperdiet. Nunc erat arcu, lobortis vitae tellus sit amet, fringilla vehicula velit.</string>
+
+    <!--    Ajout d'article   -->
+    <string name="add_title_input">Titre</string>
+    <string name="add_content_input">Contenu</string>
+    <string name="add_button">AJOUTER</string>
+
+</resources>
